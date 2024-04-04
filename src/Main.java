@@ -75,7 +75,7 @@ public class Main {
 
 
                         case 4:
-                            System.out.println("usted no excogio ninguna opcion por favor seleccione una opcion puede ser 1 - 2 - 3");
+                            System.out.print("usted no excogio ninguna opcion por favor seleccione una opcion puede ser 1 - 2 - 3");
 
                            opcion1 = entrada.nextInt();
                            opcion2 = entrada.nextInt();
